@@ -11,6 +11,7 @@ This repository shows the process of digitization of a _early book_.
 
 * Summary of set up
     * Implies hardware and software: camera, lens, image editing tools, etc.
+    * gathering of data of posible-scenarios or leading cases (forums, data mining, etc.)
 * Configuration
 * Dependencies
 * Database configuration
