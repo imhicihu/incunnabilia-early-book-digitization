@@ -1,16 +1,16 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository shows the process of digitization of a _early book_.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Process-workflow-description of good practices in the digitization of a object. 
+* Version 1.0
 
 ### How do I get set up? ###
 
 * Summary of set up
+    * Implies hardware and software: camera, lens, image editing tools, etc.
 * Configuration
 * Dependencies
 * Database configuration
