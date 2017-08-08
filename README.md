@@ -10,10 +10,10 @@ This repository shows the process of digitization of an _incunabulae_.
 ### How do I get set up? ###
 
 * Summary of set up
-    * Implies hardware and software: camera, lens, lux control, image editing tools, custom profiles (for the optimization of the software workflow as camera condition), etc.
+    * Implies hardware and software: camera, lens, lux control, image editors, creation of custom profiles (for optimization and a smooth workflow between hardware & software), etc.
     * Gathering of data of posible-scenarios or leading cases (forums, data mining, bibliography, etc.)
 * Configuration
-    * Up to now, in the process of gathering data to meet international norms. It a mix between hardware & software
+    * Up to now, in the process of gathering data to meet international norms. It a mixture between hardware & software
 * Dependencies
     * The same nature of the process, needs a lot of steps to follow. There is no shortcuts
 * How to run tests
