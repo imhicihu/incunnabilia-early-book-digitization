@@ -1,1 +1,5 @@
-IV Encuentro Nacional de Catalogadores : tendencias en la organizaciÃ³n y tratamiento de la informaciÃ³n / compilado por Elsa Barber con la colaboraciÃ³n de Carolina Gregui y Silvia Pisano. 978-987-728-003-6
+IV Encuentro Nacional de Catalogadores : tendencias en la organización y tratamiento de la información / compilado por Elsa Barber con la colaboración de Carolina Gregui y Silvia Pisano. 978-987-728-003-6
+Taxonomía : de formatos de pantalla en la era digital / Mariela Yeregui (comp.). ISBN 978-987-25494-2-8 
+¡Se acabó el papel! : aportes para la preservación y la conservación preventiva del patrimonio cultural en papel. ISBN 978-987-26275-0-8
+Prensa de la emancipación : proyecto de digitalización de la prensa periódica del siglo XIX / XXI Asamblea General de ABINIA: 11 al 14 de septiembre de 2010, Buenos Aires, Argentina. 
+Catálogo y digitalización de los manuscritos de Juan Carlos Onetto / Isabel Álvarez y Graciela Gargiulo. ISBN: 978-9974-550-76-6
