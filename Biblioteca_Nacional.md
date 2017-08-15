@@ -1,0 +1,1 @@
+IV Encuentro Nacional de Catalogadores : tendencias en la organización y tratamiento de la información / compilado por Elsa Barber con la colaboración de Carolina Gregui y Silvia Pisano. 978-987-728-003-6
