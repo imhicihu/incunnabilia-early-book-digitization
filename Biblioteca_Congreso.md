@@ -13,7 +13,11 @@
 (En: IFLA journal. München v. 38 nº 4 (Dec. 2012) p. [289]-296 il. 30 cm.)
   Ubicación: H. 6020
   ---------------------------------
-*   		Roldán, Patricio R.
-  Digitalización de imágenes en la pericia caligráfica. Buenos Aires, Ediciones La Rocca, 2006.
-  Ubicación: 130471
+*   		~~Roldán, Patricio R.~~
+  ~~Digitalización de imágenes en la pericia caligráfica. Buenos Aires, Ediciones La Rocca, 2006.~~
+  ~~Ubicación: 130471~~
   ---------------------------------
+ *  		Digitization and digital libraries module [recurso electrónico]. English V1.0. [Roma], FAO, 2005.
+  Ubicación: CDR 782
+  ---------------------------------
+  
