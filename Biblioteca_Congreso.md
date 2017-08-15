@@ -24,9 +24,12 @@
   Tratamiento y difusión digital del libro antiguo. Gijón, Ediciones Trea, 2003.
   Ubicación: 128026
   ----------------------------------
-   		Zuleta, Juan Antonio, 1956-
+   *		Zuleta, Juan Antonio, 1956-
   La imagen digital sin misterios. Buenos Aires, Ediciones Fotográficas Argentina, 2000.
   Ubicación: B. 7061 ¦ CDR 328 (T)
+  -----------------------------------
+  * Regional Training Workshop on the Preservation of and Access to the Documentary Heritage in Asia and the Pacific Region (2º : 2004 : Cheongju, Corea)   
+  Digitalization of documentary heritage for preservation and access / 2nd UNESCO Regional Training Workshop on the Preservation of and Access to the Documentary Heritage in Asia and the Pacific Region
   -----------------------------------
   
   
