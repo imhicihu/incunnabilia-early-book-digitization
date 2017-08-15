@@ -6,5 +6,5 @@
 * Digitalización de imágenes en la pericia caligráfica. ISBN: 987-517-088-7
 * El libro impreso y el libro digital : estudio sobre los modos de producción editorial en el cambio de milenio / Alessandro Cavaliere. ISBN: 84-7908-821-4
 * Tratamiento y difusión digital del libro antiguo : directrices metodológicas y guía de recursos / José Luis Herrera Morillas (con la colaboracion de Francisco Matías Lázaro). ISBN: 84-9704-029-5
-* Cómo seleccionar colecciones de investigación para la digitalización. ISBN: 956-244-110-5
-* Microfilm o preservación digital en bibliotecas y archivos?. Boro, Fernando J.
+* ~~Cómo seleccionar colecciones de investigación para la digitalización. ISBN: 956-244-110-5~~
+* ~~Microfilm o preservación digital en bibliotecas y archivos?. Boro, Fernando J.~~
