@@ -20,4 +20,9 @@
  *  		Digitization and digital libraries module [recurso electrónico]. English V1.0. [Roma], FAO, 2005.
   Ubicación: CDR 782
   ---------------------------------
+  *     Herrera Morillas, José Luis
+  Tratamiento y difusión digital del libro antiguo. Gijón, Ediciones Trea, 2003.
+  Ubicación: 128026
+  ----------------------------------
+  
   
