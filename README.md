@@ -11,11 +11,11 @@ This repository shows the process of digitization of an _incunabulae_.
 
 * Summary of set up
     * Implies hardware and software: camera, lens, lux control, image editors, creation of custom profiles (for optimization and a smooth workflow between hardware & software), etc.
-    * Gathering of data of posible-scenarios or leading cases (forums, data mining, bibliography, etc.)
+    * Gathering of data of posible-scenarios or leading cases (forums, libraries, bibliography, etc.)
 * Configuration
     * Up to now, in the process of gathering data to meet international norms. It a mixture between hardware & software
 * Dependencies
-    * The same nature of the process, needs a lot of steps to follow. There is no shortcuts
+    * The same nature of the process, needs a lot of steps to follow. There is no detours
 * How to run tests
     * No data to share (up to now)
 * Deployment instructions
