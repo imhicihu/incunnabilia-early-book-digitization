@@ -13,3 +13,4 @@
 * [Digital Preservation Coalition](http://www.dpconline.org/) offers a [handbook](http://dpconline.org/handbook). Some webinars can be found here: https://vimeo.com/user5542004
 * [Guidelines for Digitizing Archival Materials for Electronic Access](https://www.archives.gov/preservation/technical/guidelines.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html)
+* http://www.ukoln.ac.uk/preservation/presentations/
