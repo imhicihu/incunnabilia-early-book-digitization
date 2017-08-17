@@ -8,10 +8,11 @@
 (En: IFLA journal. München v. 29 nº 4 (2003) p. 320-356 30 cm.)
   Ubicación: H. 6020
   ---------------------------------
-*  Singh, Anil
-  Digital preservation of cultural heritage resources and manuscripts.
-(En: IFLA journal. München v. 38 nº 4 (Dec. 2012) p. [289]-296 il. 30 cm.)
-  Ubicación: H. 6020
+*  ~~Singh, Anil~~
+  ~~Digital preservation of cultural heritage resources and manuscripts.~~
+~~(En: IFLA journal. München v. 38 nº 4 (Dec. 2012) p. [289]-296 il. 30 cm.)~~
+  ~~Ubicación: H. 6020~~
+  Mostly, take in count the bibliography. 
   ---------------------------------
 *   		~~Roldán, Patricio R.~~
   ~~Digitalización de imágenes en la pericia caligráfica. Buenos Aires, Ediciones La Rocca, 2006.~~
