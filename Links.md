@@ -3,6 +3,8 @@
 * [Digital Curation Centre](http://www.dcc.ac.uk/): check the resources, tools and case studies
 * [Leading cases on British library](https://www.bl.uk/digitisation-services)
 * [International Internet Preservation Consortion](http://netpreserve.org/)
+* http://www.digitizationguidelines.gov/  plus http://www.digitizationguidelines.gov/guidelines/
+* [Library of Congress digital preservation](http://www.digitalpreservation.gov/)
 * [case studies ](http://netpreserve.org/web-archiving/case-studies/)(take in count the link analysis)
 * http://catalogosuba.sisbi.uba.ar/vufind/Record/20160331025831271
 * [A Linux Guide to Book Scanning](https://natecraun.net/articles/linux-guide-to-book-scanning.html)
