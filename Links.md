@@ -16,3 +16,5 @@
 * [Guidelines for Digitizing Archival Materials for Electronic Access](https://www.archives.gov/preservation/technical/guidelines.html)
 * http://www.ukoln.ac.uk/preservation/presentations/ (info offered seems to be outdated)
 * [Vancouver Maritime Museum digitization plan](https://issuu.com/vanmaritime/docs/vmm_digitization_plan_2015)
+* [Final report of the taskforce on digital archiving](https://www.clir.org/pubs/reports/pub63watersgarrett.pdf)
+* 
