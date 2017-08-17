@@ -13,4 +13,5 @@
 * [National Manuscripts Conservation Trust](http://www.nmct.co.uk/)
 * [Digital Preservation Coalition](http://www.dpconline.org/) offers a [handbook](http://dpconline.org/handbook). Some webinars can be found here: https://vimeo.com/user5542004
 * [Guidelines for Digitizing Archival Materials for Electronic Access](https://www.archives.gov/preservation/technical/guidelines.html)
-* http://www.ukoln.ac.uk/preservation/presentations/
+* http://www.ukoln.ac.uk/preservation/presentations/ (info offered seems to be outdated)
+* [Vancouver Maritime Museum digitization plan](https://issuu.com/vanmaritime/docs/vmm_digitization_plan_2015)
