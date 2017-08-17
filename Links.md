@@ -1,4 +1,5 @@
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
+* query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
 * [International Internet Preservation Consortion](http://netpreserve.org/)
 * [case studies ](http://netpreserve.org/web-archiving/case-studies/)(take in count the link analysis)
 * http://catalogosuba.sisbi.uba.ar/vufind/Record/20160331025831271
