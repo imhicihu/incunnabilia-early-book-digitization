@@ -1,3 +1,4 @@
+* [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * [International Internet Preservation Consortion](http://netpreserve.org/)
 * [case studies ](http://netpreserve.org/web-archiving/case-studies/)(take in count the link analysis)
 * http://catalogosuba.sisbi.uba.ar/vufind/Record/20160331025831271
@@ -12,5 +13,4 @@
 * [National Manuscripts Conservation Trust](http://www.nmct.co.uk/)
 * [Digital Preservation Coalition](http://www.dpconline.org/) offers a [handbook](http://dpconline.org/handbook). Some webinars can be found here: https://vimeo.com/user5542004
 * [Guidelines for Digitizing Archival Materials for Electronic Access](https://www.archives.gov/preservation/technical/guidelines.html)
-* [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html)
 * http://www.ukoln.ac.uk/preservation/presentations/
