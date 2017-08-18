@@ -5,6 +5,7 @@
 * [Guidelines: Technical Guidelines for Digitizing Cultural Heritage Materials](http://www.digitizationguidelines.gov/guidelines/digitize-technical.html)
 * [Leading cases on British library](https://www.bl.uk/digitisation-services)
 * [International Internet Preservation Consortion](http://netpreserve.org/)
+* [International Federation of Library Associations and Institutions (IFLA) guidelines](https://www.ifla.org/node/8750)
 * [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/) plus [Guidelines](http://www.digitizationguidelines.gov/guidelines/)
 * [Library of Congress digital preservation](http://www.digitalpreservation.gov/)
 * [case studies ](http://netpreserve.org/web-archiving/case-studies/)(take in count the link analysis)
