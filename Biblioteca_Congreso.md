@@ -6,7 +6,8 @@
 *   		~~Jones, Maggie~~
   ~~Digital preservation activities in the United Kingdom, building the infrastructure.~~
 ~~(En: IFLA journal. München v. 29 nº 4 (2003) p. 320-356 30 cm.)~~
-  ~~Ubicación: H. 6020~~ In Bibliography, encounage to go to Collect Britain (a project from British Library. Today, this domain is on sale. Vide http://www.collectbritain.co.uk/
+  ~~Ubicación: H. 6020~~ 
+       * In Bibliography, encourage to go to Collect Britain (a project from British Library. Today, this domain is on sale. Vide http://www.collectbritain.co.uk/
   ---------------------------------
 *  ~~Singh, Anil~~
   ~~Digital preservation of cultural heritage resources and manuscripts.~~
@@ -47,8 +48,22 @@
     * ~~Roy, Loriene~~
     ~~Indigenous cultural heritage preservation: A review essay with ideas for the future.~~
     ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 192-203~~
-          * (...) The increasing importance of digital cultural heritage expands the discussion surrounding Indigenous cultural heritage to legal and policy issues, bringing in topics such as e-publishing, e-lending, and access, incluing the notion of the right to be forgotten. (p. 196)
+          * (...) The increasing importance of digital cultural heritage expands the discussion surrounding 
+          Indigenous cultural heritage to legal and policy issues, bringing in topics such as e-publishing, 
+          e-lending, and access, incluing the notion of the right to be forgotten. (p. 196)
           * (...) digitization is often regarded as the de facto process for preservation (p. 198)
-          * (...) New tols are being developed, while frameworks brought in ffrom other disciplines are offering different ways of thinking. (p. 200)
-          * Bibliography is a plus
+          * (...) New tols are being developed, while frameworks brought in from other 
+          disciplines are offering different ways of thinking. (p. 200)
+                * Bibliography is a plus
+ -----------------------------------               
+    *     Heuberger, Rachel
+    *     Leone, Laura
+    *     Evers, Renate
+    ~~The challenges of reconstructing cultural heritage: An international digital collaboration.~~
+    ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 223-229
+          * (...) Due to the rarity and fragile condition of historic resources for Jewish studies neither the Center 
+          nor the JSF allows for their lending, requiring researchers to travel to their reading room to view the works onsite (...) (p. 225)
+          * (...) The project required detailed bibligraphical preparation, selection, verification, and intense tracking of materiales (...) 
+          LB catalogers, working from the original Freimann Library catalog, worked through the titles that was identified as missing (...)
+          the process ensured not only the selection of materials but also their full descriptive cataloging which was required before digitization took place (p. 226)
   ----------------------------------- 
