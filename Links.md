@@ -2,6 +2,7 @@
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
 * [Digital Curation Centre](http://www.dcc.ac.uk/): check the resources, tools and case studies
+* [Guidelines: Technical Guidelines for Digitizing Cultural Heritage Materials](http://www.digitizationguidelines.gov/guidelines/digitize-technical.html)
 * [Leading cases on British library](https://www.bl.uk/digitisation-services)
 * [International Internet Preservation Consortion](http://netpreserve.org/)
 * http://www.digitizationguidelines.gov/  plus http://www.digitizationguidelines.gov/guidelines/
