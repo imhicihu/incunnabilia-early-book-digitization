@@ -22,3 +22,4 @@
 * [Vancouver Maritime Museum digitization plan](https://issuu.com/vanmaritime/docs/vmm_digitization_plan_2015)
 * [Final report of the taskforce on digital archiving](https://www.clir.org/pubs/reports/pub63watersgarrett.pdf)
 * [NDSA:Digital Preservation in a Box](https://wiki.diglib.org/NDSA:Digital_Preservation_in_a_Box)
+* [Library of Congress: Tools and infrastructure](http://blogs.loc.gov/thesignal/category/tools-and-infrastructure/)
