@@ -15,7 +15,7 @@ This repository shows the process of digitization of an _incunabulae_.
 * Configuration
     * Up to now, in the process of gathering data to meet international norms. It a mixture between hardware & software
 * Dependencies
-    * The same nature of the process, needs a lot of steps to follow. There is no detours
+    * The same nature of the process, needs lots of steps to meet consecutively
 * How to run tests
     * No data to share (up to now)
 * Deployment instructions
