@@ -38,4 +38,10 @@
 ~~(En: Infolac. Caracas v. 20 nº 3 () p. 13-21 retrs. 30 cm.)~~
   ~~Ubicación: O.I. UNESCO P 78~~
           _Data not relevant for the purpose desired_
+  -----------------------------------
+  *          ~~Pienaar, Rae E.~~
+  ~~Survival information: The role of the Public library in the social and cultural development of disadvantaged communities.~~
+  ~~(En: IFLA Journal, vol. 21 (1995), N° 1, (Feb. 1995), p. 15-18).~~
+  _Data not relevant for the purpose desired_
+  
   
