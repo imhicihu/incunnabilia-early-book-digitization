@@ -37,11 +37,18 @@
   ~~Challenges and opportunities of digital libraries and digital repositories.~~
 ~~(En: Infolac. Caracas v. 20 nº 3 () p. 13-21 retrs. 30 cm.)~~
   ~~Ubicación: O.I. UNESCO P 78~~
-          _Data not relevant for the purpose desired_
+          * _Data not relevant for the purpose desired_
   -----------------------------------
   *          ~~Pienaar, Rae E.~~
   ~~Survival information: The role of the Public library in the social and cultural development of disadvantaged communities.~~
   ~~(En: IFLA Journal, vol. 21 (1995), N° 1, (Feb. 1995), p. 15-18).~~
-  _Data not relevant for the purpose desired_
-  
-  
+       * _Data not relevant for the purpose desired_
+    -----------------------------------
+    * ~~Roy, Loriene~~
+    ~~Indigenous cultural heritage preservation: A review essay with ideas for the future.~~
+    ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 192-203~~
+         * (...) The increasing importance of digital cultural heritage expands the discussion surrounding Indigenous cultural heritage to legal and policy issues, bringing in topics such as e-publishing, e-lending, and access, incluing the notion of the right to be forgotten. (p. 196)
+         * (...) digitization is often regarded as the de facto process for preservation (p. 198)
+         * (...) New tols are being developed, while frameworks brought in ffrom other disciplines are offering different ways of thinking. (p. 200)
+    
+    
