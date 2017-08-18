@@ -21,4 +21,4 @@
 * http://www.ukoln.ac.uk/preservation/presentations/ (info offered seems to be outdated)
 * [Vancouver Maritime Museum digitization plan](https://issuu.com/vanmaritime/docs/vmm_digitization_plan_2015)
 * [Final report of the taskforce on digital archiving](https://www.clir.org/pubs/reports/pub63watersgarrett.pdf)
-* 
+* [NDSA:Digital Preservation in a Box](https://wiki.diglib.org/NDSA:Digital_Preservation_in_a_Box)
