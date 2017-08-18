@@ -4,7 +4,7 @@ This repository shows the process of digitization of an _incunabulae_.
 
 ### What is this repository for? ###
 
-* _Process-workflow-description_ turning an object and becoming a digital asset. 
+* _Process-workflow-description_ turning a book and becoming a _digital asset_. 
 * Version 1.1
 
 ### How do I get set up? ###
