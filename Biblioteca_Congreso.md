@@ -36,6 +36,6 @@
   *        ~~DFernández-Aballí, Isidro~~
   ~~Challenges and opportunities of digital libraries and digital repositories.~~
 ~~(En: Infolac. Caracas v. 20 nº 3 () p. 13-21 retrs. 30 cm.)~~
-  Ubicación: O.I. UNESCO P 78
+  ~~Ubicación: O.I. UNESCO P 78~~
           _Data not relevant for the purpose desired_
   
