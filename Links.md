@@ -1,3 +1,4 @@
+* [D-lib: The Magazine of Digital Library Research](http://www.dlib.org/dlib.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
 * [Digital Curation Centre](http://www.dcc.ac.uk/): check the resources, tools and case studies
