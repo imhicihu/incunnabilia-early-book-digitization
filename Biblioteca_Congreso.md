@@ -61,9 +61,7 @@
   disciplines are offering different ways of thinking. (p. 200)
          * Bibliography is a plus
  -----------------------------------               
-    * ~~Heuberger, Rachel~~
-    * ~~Leone, Laura~~
-    * ~~Evers, Renate~~
+  * ~~Heuberger, Rachel, Leone, Laura, Evers, Renate~~
   ~~The challenges of reconstructing cultural heritage: An international digital collaboration.~~
   ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 223-229~~
   (...) Due to the rarity and fragile condition of historic 
@@ -81,5 +79,12 @@
   as objects, made them more vulnerable for photography in particular. 
   For example, condition issues such as brittleness and tight margins 
   necessitated the removal of a selection of books from the original list. (p. 227)
-        * Chapter intitled _Digitization at the Center's digital lab_ offers great insights about hardware and procedures.
+  (...) This international project is an excellent case study for the reconstruction 
+  of cultrural heritage by digitally unifying resources hat have been physically 
+  scattered across the globe due to world events. 
+  (...) Collaborative, themed digital portal are on the one hand important 
+  technical tools to reconstruct collections and on the other hand important 
+  research tools to promote humanities and cultural content in context 
+  to existing and new audiences.(p. 228)
+        * Chapter intitled Digitization at the Center's digital lab offers great insights about hardware and procedures.
   ----------------------------------- 
