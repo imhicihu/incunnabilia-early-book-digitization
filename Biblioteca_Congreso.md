@@ -47,35 +47,39 @@
        * Data not relevant for the purpose desired
   -----------------------------------
   * ~~Roy, Loriene~~
-    ~~Indigenous cultural heritage preservation: A review essay with ideas for the future.~~
-    ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 192-203~~
-          (...) The increasing importance of digital cultural heritage expands 
-          the discussion surrounding Indigenous cultural heritage to legal 
-          and policy issues, bringing in topics such as e-publishing, 
-          e-lending, and access, incluing the notion of the right 
-          to be forgotten. (p. 196)
-          (...) digitization is often regarded as the de facto 
-          process for preservation (p. 198)
-          (...) New tols are being developed, while 
-          frameworks brought in from other 
-          disciplines are offering different ways of thinking. (p. 200)
-                * Bibliography is a plus
+  ~~Indigenous cultural heritage preservation: A review essay with ideas for the future.~~
+  ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 192-203~~
+  (...) The increasing importance of digital cultural heritage expands 
+  the discussion surrounding Indigenous cultural heritage to legal 
+  and policy issues, bringing in topics such as e-publishing, 
+  e-lending, and access, incluing the notion of the right 
+  to be forgotten. (p. 196)
+  (...) digitization is often regarded as the de facto 
+  process for preservation (p. 198)
+  (...) New tools are being developed, while 
+  frameworks brought in from other 
+  disciplines are offering different ways of thinking. (p. 200)
+         * Bibliography is a plus
  -----------------------------------               
     * ~~Heuberger, Rachel~~
     * ~~Leone, Laura~~
     * ~~Evers, Renate~~
-    ~~The challenges of reconstructing cultural heritage: An international digital collaboration.~~
-    ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 223-229~~
-          (...) Due to the rarity and fragile condition of historic 
-          resources for Jewish studies neither the Center 
-          nor the JSF allows for their lending, requiring researchers to 
-          travel to their reading room to view the works onsite (...) (p. 225)
-          (...) The project required detailed bibligraphical preparation, 
-          selection, verification, and intense tracking of materiales (...) 
-          LB catalogers, working from the original Freimann Library catalog, 
-          worked through the titles that was identified as missing (...)
-          the process ensured not only the selection of materials 
-          but also their full descriptive cataloging which was 
-          required before digitization took place (p. 226)
-               * Chapter intitled _Digitization at the Center's digital lab_ offers great insights about hardware and procedures.
+  ~~The challenges of reconstructing cultural heritage: An international digital collaboration.~~
+  ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 223-229~~
+  (...) Due to the rarity and fragile condition of historic 
+  resources for Jewish studies neither the Center 
+  nor the JSF allows for their lending, requiring researchers to 
+  travel to their reading room to view the works onsite (...) (p. 225)
+  (...) The project required detailed bibligraphical preparation, 
+  selection, verification, and intense tracking of materiales (...) 
+  LB catalogers, working from the original Freimann Library catalog, 
+  worked through the titles that was identified as missing (...)
+  the process ensured not only the selection of materials 
+  but also their full descriptive cataloging which was 
+  required before digitization took place (p. 226)
+  (...) Photographers while not particularly vulnerable overall 
+  as objects, made them more vulnerable for photography in particular. 
+  For example, condition issues such as brittleness and tight margins 
+  necessitated the removal of a selection of books from the original list. (p. 227)
+        * Chapter intitled _Digitization at the Center's digital lab_ offers great insights about hardware and procedures.
   ----------------------------------- 
