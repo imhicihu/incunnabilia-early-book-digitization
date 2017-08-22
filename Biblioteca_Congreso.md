@@ -16,6 +16,12 @@
   ~~Ubicación: H. 6020~~
        * Mostly, take in count the bibliography. 
   ---------------------------------
+* ~~Christie Koontz and Barbara Gubbin~~
+  ~~IFLA Public Library Service guidelines~~
+  ~~Ubicación: 142342/2a (147)~~
+  ~~1/475323 v.: U ej: 1~~
+      * Data not relevant for the purpose desired
+  ---------------------------------  
 *   		~~Roldán, Patricio R.~~
   ~~Digitalización de imágenes en la pericia caligráfica. Buenos Aires, Ediciones La Rocca, 2006.~~
   ~~Ubicación: 130471~~
