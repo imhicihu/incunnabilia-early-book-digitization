@@ -22,6 +22,7 @@
 * [Cultural Informatics Lab](http://ignca.nic.in/mmd_body.htm). Offers this guidelines: http://ignca.nic.in/PDF_data/digitization_standards.pdf
 * [National Manuscripts Conservation Trust](http://www.nmct.co.uk/)
 * https://en.wikipedia.org/wiki/Digital_preservation
+* (International Organizations and Projects related to Rare Books and Manuscripts)[https://www.ifla.org/node/8413]
 * [Digital Preservation Coalition](http://www.dpconline.org/) offers a [handbook](http://dpconline.org/handbook). Some webinars can be found here: https://vimeo.com/user5542004
 * [Guidelines for Digitizing Archival Materials for Electronic Access](https://www.archives.gov/preservation/technical/guidelines.html)
 * http://www.ukoln.ac.uk/preservation/presentations/ (info offered seems to be outdated)
