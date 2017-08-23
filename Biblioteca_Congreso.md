@@ -36,7 +36,7 @@
       * (...) And important aspect to be considered is light control. During the scanning process, the materials are exposed to heat and light for a rather long period of time. You should minimize the heat exposure in this case.
       * (...) Place special infrared protection foil between the lights and the exposed material. 
       * (...) Place small ventilators behind the lights. The air will take the heat out of this space. 
-      * 
+      * (...) For transporation back to remote repositories, take the same security and climate control measures as you did during transportation for digitization. Use the digitization-relate care period for the introduction of additional preservation methods, try to improve the storage of originals (...) by the use of protective boxes made with acid-free milboard paper or use protective permanent paper envelopes. 
   ---------------------------------
   *     Herrera Morillas, José Luis
   Tratamiento y difusión digital del libro antiguo. Gijón, Ediciones Trea, 2003.
