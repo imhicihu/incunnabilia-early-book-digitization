@@ -30,7 +30,10 @@
  * ~~Digitization and digital libraries module [recurso electrónico]. English V1.0. [Roma], FAO, 2005.~~
   ~~Ubicación: CDR 782~~
       * CD-ROM made by iMask for UNESCO. A kind of workshop plus a couple of tutorials on digital treatment (image formats, mark-up records, character encoding, document conversion, metadata guidelines, Dublin Core standards, document indexing); some protocols, legal advisory on copyrights and final deadlines to meet.
-      * Lesson 4.6: Considerations for delicate and heritage documents: management of risk and how to avoid their deterioration: before, during, after digitization. 
+      * Lesson 4.6: Considerations for delicate and heritage documents: management of risk and how to avoid their deterioration: before, during, after digitization.
+      * (...) Researches should be involved in your work as well: they will probably show an interest in the project and could warn about problems resulting from inappropiate handling.
+      * (...) The biggest enemy of delicate materials is the change of environmental conditions. This happens when you move the materials from a stable storage environment to your digitization centre. The materials may then change their original form, for example, physical modifications and movement of parchments may result in the accelerated embrittlement of the acid paper. (...) ensure appropiate climate control during transportation. (...) The temperature and relative humidity at the digitization centre should be the same as at the permanent storage environment. You should also avoid exposure od digitized materials to additional sources of heat and light.
+      * 
   ---------------------------------
   *     Herrera Morillas, José Luis
   Tratamiento y difusión digital del libro antiguo. Gijón, Ediciones Trea, 2003.
