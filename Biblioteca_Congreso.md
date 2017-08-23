@@ -27,9 +27,10 @@
   ~~Ubicación: 130471~~
        * Data not relevant for the purpose desired
   ---------------------------------
- *  		Digitization and digital libraries module [recurso electrónico]. English V1.0. [Roma], FAO, 2005.
-  Ubicación: CDR 782
-  CD-ROM made by iMask for UNESCO. A kind of workshop plus a couple of tutorials on digital treatment (image formats, mark-up records, character encoding, document conversion, metadata guidelines, Dublin Core standards, document indexing); some protocols, legal advisory on copyrights and final deadlines to meet.
+ * ~~Digitization and digital libraries module [recurso electrónico]. English V1.0. [Roma], FAO, 2005.~~
+  ~~Ubicación: CDR 782~~
+      * CD-ROM made by iMask for UNESCO. A kind of workshop plus a couple of tutorials on digital treatment (image formats, mark-up records, character encoding, document conversion, metadata guidelines, Dublin Core standards, document indexing); some protocols, legal advisory on copyrights and final deadlines to meet.
+      * Lesson 4.6: Considerations for delicate and heritage documents: management of risk and how to avoid their deterioration: before, during, after digitization. 
   ---------------------------------
   *     Herrera Morillas, José Luis
   Tratamiento y difusión digital del libro antiguo. Gijón, Ediciones Trea, 2003.
