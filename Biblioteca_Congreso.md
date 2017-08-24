@@ -87,7 +87,7 @@
       * (...) This international project is an excellent case study for the reconstruction of cultrural heritage by digitally unifying resources hat have been physically scattered across the globe due to world events. 
       * (...) Collaborative, themed digital portal are on the one hand important technical tools to reconstruct collections and on the other hand important research tools to promote humanities and cultural content in context to existing and new audiences.(p. 228)
        * Chapter intitled Digitization at the Center's digital lab offers great insights about hardware and procedures.
-  -----------------------------------
+ -----------------------------------
   * ~~Sahoo, Jyotshna; Mohanty, Basudev~~
   ~~Digitization of Indian manuscripts heritage: Role of the National Mission for Manuscripts~~
   ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 237-250~~
@@ -96,10 +96,10 @@
       * (...) quality assurances is performed on all master images and their derivatives with regard to size and resolution of image, file format, image mode, bit depth, tonal values, brightness, contrast, sharpness, interference, orientation, missing lines or pixel, text legibility, cropped and border areas, etc. (p. 245)
       * (...) For each digitized manuscripts two sets of metadata are created namely subject metadata and technical metadata. (p. 245)
       * (...) Technical metadata is automatically generated and assigned to the image file  at the time of creation and the data elements covered are: file name, date created,  date modified, equipment used, image format, width, height,  colour mode, etc. (p. 245)
-    -----------------------------------
+ -----------------------------------
   * ~~Solodovnik, Iryna; Budroni, Paolo~~
   ~~Preserving digital heritage: At the crossroads of Trust and Linked Open Data~~
   ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 251-264~~
-  * Bibliography is a plus
-   -----------------------------------
+      * Bibliography is a plus (needs a second reading)
+ -----------------------------------
  
