@@ -79,10 +79,7 @@
   * ~~Heuberger, Rachel; Leone, Laura; Evers, Renate~~
   ~~The challenges of reconstructing cultural heritage: An international digital collaboration.~~
   ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 223-229~~
-  (...) Due to the rarity and fragile condition of historic 
-  resources for Jewish studies neither the Center 
-  nor the JSF allows for their lending, requiring researchers to 
-  travel to their reading room to view the works onsite (...) (p. 225)
+      * (...) Due to the rarity and fragile condition of historic resources for Jewish studies neither the Center nor the JSF allows for their lending, requiring researchers to travel to their reading room to view the works onsite (...) (p. 225)
   (...) The project required detailed bibligraphical preparation, 
   selection, verification, and intense tracking of materiales (...) 
   LB catalogers, working from the original Freimann Library catalog, 
@@ -90,36 +87,19 @@
   the process ensured not only the selection of materials 
   but also their full descriptive cataloging which was 
   required before digitization took place (p. 226)
-  (...) Photographers while not particularly vulnerable overall 
-  as objects, made them more vulnerable for photography in particular. 
-  For example, condition issues such as brittleness and tight margins 
-  necessitated the removal of a selection of books from the original list. (p. 227)
-  (...) This international project is an excellent case study for the reconstruction 
-  of cultrural heritage by digitally unifying resources hat have been physically 
-  scattered across the globe due to world events. 
-  (...) Collaborative, themed digital portal are on the one hand important 
-  technical tools to reconstruct collections and on the other hand important 
-  research tools to promote humanities and cultural content in context 
-  to existing and new audiences.(p. 228)
+      * (...) Photographers while not particularly vulnerable overall  as objects, made them more vulnerable for photography in particular. For example, condition issues such as brittleness and tight margins necessitated the removal of a selection of books from the original list. (p. 227)
+      * (...) This international project is an excellent case study for the reconstruction of cultrural heritage by digitally unifying resources hat have been physically scattered across the globe due to world events. 
+      * (...) Collaborative, themed digital portal are on the one hand important technical tools to reconstruct collections and on the other hand important research tools to promote humanities and cultural content in context to existing and new audiences.(p. 228)
        * Chapter intitled Digitization at the Center's digital lab offers great insights about hardware and procedures.
   -----------------------------------
   * ~~Sahoo, Jyotshna; Mohanty, Basudev~~
   ~~Digitization of Indian manuscripts heritage: Role of the National Mission for Manuscripts~~
   ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 237-250~~
-  (...) The Mission has developed a guideline known as 'Guidelines for Digitization of Manuscripts' 
-  which covers the detailed guidelines for scanning like image quality, resolution, 
-  bit depth, image enhancement process, compression, output especification, etc. (p. 245)
-  (...) Similarly, four image formats namely master image (TIFF format), clean image (TIFF format), 
-  access image (JPEG format) and thumbnail image (JPEG format) (p. 245)
-  (...) quality assurances is performed on all master images and their derivatives with 
-  regard to size and resolution of image, file format, image mode, bit depth, tonal values, brightness, 
-  contrast, sharpness, interference, orientation, missing lines or pixel, 
-  text legibility, cropped and border areas, etc. (p. 245)
-  (...) For each digitized manuscripts two sets of metadata are created namely 
-  subject metadata and technical metadata. (p. 245)
-  (...) Technical metadata is automatically generated and assigned to the image file 
-  at the time of creation and the data elements covered are: file name, date created, 
-  date modified, equipment used, image format, width, height,  colour mode, etc. (p. 245)
+      * (...) The Mission has developed a guideline known as 'Guidelines for Digitization of Manuscripts' which covers the detailed guidelines for scanning like image quality, resolution, bit depth, image enhancement process, compression, output especification, etc. (p. 245)
+      * (...) Similarly, four image formats namely master image (TIFF format), clean image (TIFF format), access image (JPEG format) and thumbnail image (JPEG format) (p. 245)
+      * (...) quality assurances is performed on all master images and their derivatives with regard to size and resolution of image, file format, image mode, bit depth, tonal values, brightness, contrast, sharpness, interference, orientation, missing lines or pixel, text legibility, cropped and border areas, etc. (p. 245)
+      * (...) For each digitized manuscripts two sets of metadata are created namely subject metadata and technical metadata. (p. 245)
+      * (...) Technical metadata is automatically generated and assigned to the image file  at the time of creation and the data elements covered are: file name, date created,  date modified, equipment used, image format, width, height,  colour mode, etc. (p. 245)
   
   
  
