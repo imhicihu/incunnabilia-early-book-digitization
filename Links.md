@@ -1,4 +1,5 @@
 * [D-lib: The Magazine of Digital Library Research](http://www.dlib.org/dlib.html)
+* [Example of Dublin Core on am early (rare) book](http://trapalanda.bn.gov.ar/jspui/handle/123456789/1524)
 * https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno
 * [Sección Incunables de la Biblioteca Nacional de Argentina](http://trapalanda.bn.gov.ar/jspui/handle/123456789/55)
 * https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1
