@@ -1,4 +1,5 @@
 * [D-lib: The Magazine of Digital Library Research](http://www.dlib.org/dlib.html)
+* https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
 * [Digital Curation Centre](http://www.dcc.ac.uk/): check the resources, tools and case studies
@@ -10,7 +11,7 @@
 * [Library of Congress digital preservation](http://www.digitalpreservation.gov/)
 * [case studies ](http://netpreserve.org/web-archiving/case-studies/)(take in count the link analysis)
 * http://catalogosuba.sisbi.uba.ar/vufind/Record/20160331025831271
-* [Biblioteca Digital Hisp√°nica (digitilizaci√≥n)](http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Acercade/#)
+* [Biblioteca Digital Hisp·nica (digitilizaciÛn)](http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Acercade/#)
 * query: _digitization_ on [Library of Congress](https://www.loc.gov/search/?in=&q=digitization&new=true)
 * [A Linux Guide to Book Scanning](https://natecraun.net/articles/linux-guide-to-book-scanning.html)
 * [Perspective correction (algorithm)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
