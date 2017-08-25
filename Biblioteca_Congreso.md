@@ -12,7 +12,7 @@
   ---------------------------------
 *  ~~Singh, Anil~~
   ~~Digital preservation of cultural heritage resources and manuscripts.~~
-~~(En: IFLA journal. München v. 38 nº 4 (Dec. 2012) p. [289]-296 il. 30 cm.)~~
+~~(En: IFLA journal. München v. 38 nº 4 (Dec. 2012) p. [289-296] il. 30 cm.)~~
   ~~Ubicación: H. 6020~~
        * Mostly, take in count the bibliography. 
   ---------------------------------
@@ -64,16 +64,9 @@
   * ~~Roy, Loriene~~
   ~~Indigenous cultural heritage preservation: A review essay with ideas for the future.~~
   ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 192-203~~
-  (...) The increasing importance of digital cultural heritage expands 
-  the discussion surrounding Indigenous cultural heritage to legal 
-  and policy issues, bringing in topics such as e-publishing, 
-  e-lending, and access, incluing the notion of the right 
-  to be forgotten. (p. 196)
-  (...) digitization is often regarded as the de facto 
-  process for preservation (p. 198)
-  (...) New tools are being developed, while 
-  frameworks brought in from other 
-  disciplines are offering different ways of thinking. (p. 200)
+       * (...) The increasing importance of digital cultural heritage expands the discussion surrounding Indigenous cultural heritage to legal and policy issues, bringing in topics such as e-publishing, e-lending, and access, incluing the notion of the right to be forgotten. (p. 196)
+       * (...) digitization is often regarded as the de facto process for preservation (p. 198)
+       * (...) New tools are being developed, while frameworks brought in from other disciplines are offering different ways of thinking. (p. 200)
        * Bibliography is a plus
  -----------------------------------               
   * ~~Heuberger, Rachel; Leone, Laura; Evers, Renate~~
@@ -86,7 +79,7 @@
       * (...) Photographers while not particularly vulnerable overall  as objects, made them more vulnerable for photography in particular. For example, condition issues such as brittleness and tight margins necessitated the removal of a selection of books from the original list. (p. 227)
       * (...) This international project is an excellent case study for the reconstruction of cultrural heritage by digitally unifying resources hat have been physically scattered across the globe due to world events. 
       * (...) Collaborative, themed digital portal are on the one hand important technical tools to reconstruct collections and on the other hand important research tools to promote humanities and cultural content in context to existing and new audiences.(p. 228)
-       * Chapter intitled Digitization at the Center's digital lab offers great insights about hardware and procedures.
+      * Chapter intitled Digitization at the Center's digital lab offers great insights about hardware and procedures.
  -----------------------------------
   * ~~Sahoo, Jyotshna; Mohanty, Basudev~~
   ~~Digitization of Indian manuscripts heritage: Role of the National Mission for Manuscripts~~
