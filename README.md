@@ -26,7 +26,7 @@ This repository shows the process of digitization of an _incunabulae_.
 * Writing tests
 * Code review
 * Other guidelines
-     * Check the _issues_ (open and closed too)
+     * Check the _[issues](https://bitbucket.org/imhicihu/incunnabilia-early-book-digital/issues)_ (open and closed too)
 
 ### Who do I talk to? ###
 
