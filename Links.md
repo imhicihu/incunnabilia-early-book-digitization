@@ -4,7 +4,8 @@
 * [Sección Incunables de la Biblioteca Nacional de Argentina](http://trapalanda.bn.gov.ar/jspui/handle/123456789/55)
 * https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1
 * https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-2
-* [Linear Book Scanner](http://linearbookscanner.org/): The open-source automatic book scanner. 
+* [Linear Book Scanner](http://linearbookscanner.org/): The open-source automatic book scanner
+* [Information Standards Quaterly](http://www.niso.org/publications/isq/): offers pdf (_year by year_) to download
 * [Digitalización del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
