@@ -6,6 +6,13 @@
 * https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-2
 * [Linear Book Scanner](http://linearbookscanner.org/): The open-source automatic book scanner
 * [Information Standards Quaterly](http://www.niso.org/publications/isq/): offers pdf (_year by year_) to download
+     * _On Technical Reports:_ 
+	 * [NISO TR01-1995, Environmental Guidelines for the Storage of Paper Records:](http://www.niso.org/publications/tr/tr01.pdf) Storage parameters addressed include temperature, relative humidity, exposure to light, gaseous contaminants, and particulates. Values and procedures for the various parameters are recommended.
+	 * _On Recommended Practices:_
+	 * [NISO RP-17-2013, Institutional Identification: Identifying Organizations in the Information Supply Chain](http://www.niso.org/publications/rp/rp-17-2013/)
+	 * [NISO RP-16-2013, PIE-J: The Presentation & Identification of E-Journals](http://www.niso.org/publications/rp/rp-16-2013/)
+	 * [NISO RP-12-2012, Physical Delivery of Library Resources:](http://www.niso.org/apps/org/workgroup/physdel/download.php/7932/NISO%20RP-12-2012%2C%20Physical%20Delivery%20of%20Library%20Resources) The recommendations in this document focus on the movement of the physical items (e.g., books and audiovisual materials) between libraries, and between library and patron.
+	 * [NISO RP-2006-01, Best Practices for Designing Web Services in the Library Context](http://www.niso.org/publications/rp/rp-2006-01.pdf)
 * [Digitalización del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
