@@ -1,3 +1,4 @@
+* [British Library: strategy in the rescue-conservation of a rare-book:](http://britishlibrary.typepad.co.uk/collectioncare/). Blog describes about some strategies followed according conservancy level of object
 * [D-lib: The Magazine of Digital Library Research](http://www.dlib.org/dlib.html)
 * [Example of Dublin Core on early (rare) book](http://trapalanda.bn.gov.ar/jspui/handle/123456789/1524)
 * https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno
@@ -17,6 +18,7 @@
 * [Digitalización del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
+* British Library: some [guidelines](http://www.bl.uk/aboutus/stratpolprog/collectioncare/conservetreat/contracts.html), 
 * [Digital Curation Centre](http://www.dcc.ac.uk/): check the resources, tools and case studies
 * [Guidelines: Technical Guidelines for Digitizing Cultural Heritage Materials](http://www.digitizationguidelines.gov/guidelines/digitize-technical.html)
 * [Leading cases on British library](https://www.bl.uk/digitisation-services)
