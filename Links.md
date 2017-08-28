@@ -13,6 +13,7 @@
 	 * [NISO RP-16-2013, PIE-J: The Presentation & Identification of E-Journals](http://www.niso.org/publications/rp/rp-16-2013/)
 	 * [NISO RP-12-2012, Physical Delivery of Library Resources:](http://www.niso.org/apps/org/workgroup/physdel/download.php/7932/NISO%20RP-12-2012%2C%20Physical%20Delivery%20of%20Library%20Resources) The recommendations in this document focus on the movement of the physical items (e.g., books and audiovisual materials) between libraries, and between library and patron.
 	 * [NISO RP-2006-01, Best Practices for Designing Web Services in the Library Context](http://www.niso.org/publications/rp/rp-2006-01.pdf)
+	 * [Framework of Guidance for Building Good Digital Collections](http://www.niso.org/publications/rp/framework3.pdf)
 * [Digitalización del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
