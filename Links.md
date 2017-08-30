@@ -2,7 +2,7 @@
 * [D-lib: The Magazine of Digital Library Research](http://www.dlib.org/dlib.html)
 * [Example of Dublin Core on early (rare) book](http://trapalanda.bn.gov.ar/jspui/handle/123456789/1524)
 * https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno
-* [SecciÃ³n Incunables de la Biblioteca Nacional de Argentina](http://trapalanda.bn.gov.ar/jspui/handle/123456789/55)
+* [Sección Incunables de la Biblioteca Nacional de Argentina](http://trapalanda.bn.gov.ar/jspui/handle/123456789/55)
 * https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1
 * https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-2
 * [Linear Book Scanner](http://linearbookscanner.org/): The open-source automatic book scanner
@@ -15,11 +15,12 @@
 	 * [NISO RP-12-2012, Physical Delivery of Library Resources:](http://www.niso.org/apps/org/workgroup/physdel/download.php/7932/NISO%20RP-12-2012%2C%20Physical%20Delivery%20of%20Library%20Resources) The recommendations in this document focus on the movement of the physical items (e.g., books and audiovisual materials) between libraries, and between library and patron.
 	 * [NISO RP-2006-01, Best Practices for Designing Web Services in the Library Context](http://www.niso.org/publications/rp/rp-2006-01.pdf)
 	 * [Framework of Guidance for Building Good Digital Collections](http://www.niso.org/publications/rp/framework3.pdf)
-* [DigitalizaciÃ³n del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
+* [Digitalización del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
+* [Primary Trustworthy Digital Repository Authorisation Body Ltd:](http://www.iso16363.org/) some [bibliography](http://www.iso16363.org/courses/resources/further-reading/), some [tools and services](http://www.iso16363.org/courses/resources/tools-and-services/), some Github / Google Code repos: [Droid](https://sourceforge.net/projects/droid/) now _deprecated_: actual [Github repo](https://github.com/digital-preservation/droid), 
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
 * [Centro di Eccellenza Italiano sulla Conservazione Digitale - Conservazione Digitale](http://www.conservazionedigitale.org/wp/normativa-italiana/conservazione-digitale/): guidelines in pdf format. All in italian language.
-* British Library: some [guidelines](http://www.bl.uk/aboutus/stratpolprog/collectioncare/conservetreat/contracts.html), 
+* British Library: some [guidelines](http://www.bl.uk/aboutus/stratpolprog/collectioncare/conservetreat/contracts.html)
 * [Digital Curation Centre](http://www.dcc.ac.uk/): check the resources, tools and case studies
 * [Guidelines: Technical Guidelines for Digitizing Cultural Heritage Materials](http://www.digitizationguidelines.gov/guidelines/digitize-technical.html)
 * [Leading cases on British library](https://www.bl.uk/digitisation-services)
@@ -29,7 +30,7 @@
 * [Library of Congress digital preservation](http://www.digitalpreservation.gov/)
 * [case studies ](http://netpreserve.org/web-archiving/case-studies/)(take in count the link analysis)
 * http://catalogosuba.sisbi.uba.ar/vufind/Record/20160331025831271
-* [Biblioteca Digital Hispï¿½nica (digitilizaciï¿½n)](http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Acercade/#)
+* [Biblioteca Digital Hispánica (digitilización)](http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Acercade/#)
 * query: _digitization_ on [Library of Congress](https://www.loc.gov/search/?in=&q=digitization&new=true)
 * [A Linux Guide to Book Scanning](https://natecraun.net/articles/linux-guide-to-book-scanning.html)
 * [Perspective correction (algorithm)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
