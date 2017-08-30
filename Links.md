@@ -18,6 +18,7 @@
 * [Digitalización del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
+* [Centro di Eccellenza Italiano sulla Conservazione Digitale - Conservazione Digitale](http://www.conservazionedigitale.org/wp/normativa-italiana/conservazione-digitale/): guidelines in pdf format. All in italian language.
 * British Library: some [guidelines](http://www.bl.uk/aboutus/stratpolprog/collectioncare/conservetreat/contracts.html), 
 * [Digital Curation Centre](http://www.dcc.ac.uk/): check the resources, tools and case studies
 * [Guidelines: Technical Guidelines for Digitizing Cultural Heritage Materials](http://www.digitizationguidelines.gov/guidelines/digitize-technical.html)
