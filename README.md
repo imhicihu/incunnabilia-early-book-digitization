@@ -33,6 +33,6 @@ This repository shows the process of digitization of an _incunabulae_.
 ### Who do I talk to? ###
 
 * Repo owner or admin
-     * Contact `imhicihu at gmail dot com`
+     * Contact ![email-c69488f5-20170830200854.png](https://bitbucket.org/repo/rp8ox5M/images/3828378746-email-c69488f5-20170830200854.png)
 * Other community or team contact
      * This is a closed group (up to now).
