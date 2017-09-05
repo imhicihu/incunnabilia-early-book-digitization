@@ -17,6 +17,7 @@
 	 * [Framework of Guidance for Building Good Digital Collections](http://www.niso.org/publications/rp/framework3.pdf)
 * [Digitalización del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
+* [Archivo General de Córdoba: Archivo Histórico](http://prensa.cba.gov.ar/cultura-y-espectaculos/%E2%80%8Barchivo-historico-un-papel-saludable/)
 * [Primary Trustworthy Digital Repository Authorisation Body Ltd:](http://www.iso16363.org/) some [bibliography](http://www.iso16363.org/courses/resources/further-reading/), some [tools and services](http://www.iso16363.org/courses/resources/tools-and-services/), some Github / Google Code repos: [Droid](https://sourceforge.net/projects/droid/) now _deprecated_: actual [Github repo](https://github.com/digital-preservation/droid), 
 * query [_digitization_](https://www.ifla.org/search/node/digitization) inside IFLA Journal
 * [Centro di Eccellenza Italiano sulla Conservazione Digitale - Conservazione Digitale](http://www.conservazionedigitale.org/wp/normativa-italiana/conservazione-digitale/): guidelines in pdf format. All in italian language.
