@@ -95,8 +95,7 @@
   ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 251-264~~
       * (...) Pursuing preservation research to forward the National Preservation Research Agenda, the Library of Congress, in consultation with leading scientific laboratories, has developed a matrix of preservation science projects undertaken by libraries, archives (...)
       * (The qualitative shift from good rewearch to good practice requieres cutting-edge strategies, as in the implementation of method underpinning the storage of digital memories comprising both short-term and long-term preservation of digital objects (...)
-      * LLEGUE HASTA VISION OF TRUST (p. 258)
-      * Bibliography is a plus (needs a second reading)
+      * Bibliography is a plus (particularly about ISO, DOI, Wikipedia: _Digital repository standards development_, [Zenodo](http://zenodo.org/): _Schema for the description of research data repositories_ & Weidner, AJ: _Workflow tools for digital curation_, _et alia_)
     
  -----------------------------------
  
