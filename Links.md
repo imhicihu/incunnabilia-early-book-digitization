@@ -1,20 +1,21 @@
 * [British Library: strategy in the rescue-conservation of a rare-book:](http://britishlibrary.typepad.co.uk/collectioncare/). Blog describes about some strategies followed according conservancy level of object
 * [D-lib: The Magazine of Digital Library Research](http://www.dlib.org/dlib.html)
 * [Example of Dublin Core on early (rare) book](http://trapalanda.bn.gov.ar/jspui/handle/123456789/1524)
-* https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno
+* [https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno](https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno)
 * [Sección Incunables de la Biblioteca Nacional de Argentina](http://trapalanda.bn.gov.ar/jspui/handle/123456789/55)
 * [https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1](https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1)
 * [https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-2](https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-2)
 * [Linear Book Scanner](http://linearbookscanner.org/): The open-source automatic book scanner
 * [Information Standards Quaterly](http://www.niso.org/publications/isq/): offers pdf (_year by year_) to download
      * _On Technical Reports:_ 
-	 * [NISO TR01-1995, Environmental Guidelines for the Storage of Paper Records:](http://www.niso.org/publications/tr/tr01.pdf) Storage parameters addressed include temperature, relative humidity, exposure to light, gaseous contaminants, and particulates. Values and procedures for the various parameters are recommended.
+	      * [NISO TR01-1995, Environmental Guidelines for the Storage of Paper Records:](http://www.niso.org/publications/tr/tr01.pdf) Storage parameters addressed include temperature, relative humidity, exposure to light, gaseous contaminants, and particulates. Values and procedures for the various parameters are recommended.
 	 * _On Recommended Practices:_
-	 * [NISO RP-17-2013, Institutional Identification: Identifying Organizations in the Information Supply Chain](http://www.niso.org/publications/rp/rp-17-2013/)
-	 * [NISO RP-16-2013, PIE-J: The Presentation & Identification of E-Journals](http://www.niso.org/publications/rp/rp-16-2013/)
-	 * [NISO RP-12-2012, Physical Delivery of Library Resources:](http://www.niso.org/apps/org/workgroup/physdel/download.php/7932/NISO%20RP-12-2012%2C%20Physical%20Delivery%20of%20Library%20Resources) The recommendations in this document focus on the movement of the physical items (e.g., books and audiovisual materials) between libraries, and between library and patron.
-	 * [NISO RP-2006-01, Best Practices for Designing Web Services in the Library Context](http://www.niso.org/publications/rp/rp-2006-01.pdf)
-	 * [Framework of Guidance for Building Good Digital Collections](http://www.niso.org/publications/rp/framework3.pdf)
+	      * [NISO RP-17-2013, Institutional Identification: Identifying Organizations in the Information Supply Chain](http://www.niso.org/publications/rp/rp-17-2013/)
+	      * [NISO RP-16-2013, PIE-J: The Presentation & Identification of E-Journals](http://www.niso.org/publications/rp/rp-16-2013/)
+	      * [NISO RP-12-2012, Physical Delivery of Library Resources:](http://www.niso.org/apps/org/workgroup/physdel/download.php/7932/NISO%20RP-12-2012%2C%20Physical%20Delivery%20of%20Library%20Resources) The recommendations in this document focus on the movement of the physical items (e.g., books and audiovisual materials) between libraries, and between library and patron.
+	      * [NISO RP-2006-01, Best Practices for Designing Web Services in the Library Context](http://www.niso.org/publications/rp/rp-2006-01.pdf)
+	      * [Framework of Guidance for Building Good Digital Collections](http://www.niso.org/publications/rp/framework3.pdf)
+* [Digitalizar](http://www.digitalizar.org): take in count this book: _Digitalización del patrimonio: archivos, bibliotecas y museos en la red._ Offers some _modelos_, _estándares_ y _preservación digital_.
 * [Digitalización del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * [Archivo General de Córdoba: Archivo Histórico](http://prensa.cba.gov.ar/cultura-y-espectaculos/%E2%80%8Barchivo-historico-un-papel-saludable/) email: archivo.historico@cba.gov.ar
@@ -35,7 +36,7 @@
 * query: _digitization_ on [Library of Congress](https://www.loc.gov/search/?in=&q=digitization&new=true)
 * [A Linux Guide to Book Scanning](https://natecraun.net/articles/linux-guide-to-book-scanning.html)
 * [Perspective correction (algorithm)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
-* http://1611199.blogspot.com.ar/
+* [http://1611199.blogspot.com.ar/](http://1611199.blogspot.com.ar/)
 * query on [Emerald Insight](http://www.emeraldinsight.com/action/doSearch?AllField=digitization&content=articlesChapters) on digitization
 * [Adam Lowe clona los claroscuros de Caravaggio](https://elpais.com/diario/2009/10/08/ciberpais/1254968672_850215.html)
 * [Nuevos contenedores para la conservacion de piezas artisticas incunables](http://argentinainvestiga.edu.ar/infouniversidades/2.6/listado/noticia.php?titulo=nuevos_contenedores_para_la_conservacion_de_piezas_artisticas_incunables&id=1071)
