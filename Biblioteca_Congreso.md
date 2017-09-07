@@ -102,4 +102,5 @@
   ~~Cultural heritage digitization projects in Algeria: Case study of the National Library~~
   ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 272-278~~
        * Besides cataloging, the Manuscripts and Rare Books Department is now working on manuscript sterilization for restoration and preservation goals." (p. 274)
-       * 
+       * (...) An international company which uses robotic bound document scanning systems, Kirtas, obtained this tender and tested the Kabis TM700 scanner to digitize the manuscripts. After a while, the scanner started to shred parts from the most fragile manuscripts. (...) This failed program, which was caused by a lack of understanding of the physical characteristics and fragility of manuscripts and rare books was an unfortunate episode in the history of the Algerian National Library" (p. 275)
+ -----------------------------------
