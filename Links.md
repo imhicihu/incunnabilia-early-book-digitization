@@ -1,7 +1,7 @@
 * [British Library: strategy in the rescue-conservation of a rare-book:](http://britishlibrary.typepad.co.uk/collectioncare/). Blog describes about some strategies followed according conservancy level of object
 * [D-lib: The Magazine of Digital Library Research](http://www.dlib.org/dlib.html)
 * [Example of Dublin Core on early (rare) book](http://trapalanda.bn.gov.ar/jspui/handle/123456789/1524)
-* (Guidelines for Planning the Digitization of Rare Book and Manuscript Collections - PDF version](https://www.ifla.org/files/assets/rare-books-and-manuscripts/rbms-guidelines/guidelines-for-planning-digitization.pdf)
+* [Guidelines for Planning the Digitization of Rare Book and Manuscript Collections - PDF version](https://www.ifla.org/files/assets/rare-books-and-manuscripts/rbms-guidelines/guidelines-for-planning-digitization.pdf)
 * [https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno](https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno)
 * [Sección Incunables de la Biblioteca Nacional de Argentina](http://trapalanda.bn.gov.ar/jspui/handle/123456789/55)
 * [https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1](https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1)
