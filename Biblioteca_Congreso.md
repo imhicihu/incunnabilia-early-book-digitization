@@ -98,4 +98,8 @@
       * Bibliography is a plus (particularly about ISO, DOI, Wikipedia: _Digital repository standards development_, [Zenodo](http://zenodo.org/): _Schema for the description of research data repositories_ & Weidner, AJ: _Workflow tools for digital curation_, _et alia_)
     
  -----------------------------------
- 
+   * ~~Ghamouh, Nadjia; Boulahlib, Meriem~~
+  ~~Cultural heritage digitization projects in Algeria: Case study of the National Library~~
+  ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 272-278~~
+       * Besides cataloging, the Manuscripts and Rare Books Department is now working on manuscript sterilization for restoration and preservation goals." (p. 274)
+       * 
