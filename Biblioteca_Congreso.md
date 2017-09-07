@@ -47,8 +47,8 @@
   Ubicación: B. 7061 ¦ CDR 328 (T)
   -----------------------------------
   * Regional Training Workshop on the Preservation of and Access to the Documentary Heritage in Asia and the Pacific Region (2º : 2004 : Cheongju, Corea)   
-  Digitalization of documentary heritage for preservation and access / 2nd UNESCO Regional Training Workshop on the Preservation of and Access to the Documentary Heritage in Asia and the Pacific Region
-  (hoy llegué hasta la página 121)
+       * Digitalization of documentary heritage for preservation and access / 2nd UNESCO Regional Training Workshop on the Preservation of and Access to the Documentary Heritage in Asia and the Pacific Region
+       * (take in count the p. 39, some links to check: reposiroty checklist & resource guide)
   -----------------------------------
   *        ~~Fernández-Aballí, Isidro~~
   ~~Challenges and opportunities of digital libraries and digital repositories.~~
