@@ -1,6 +1,7 @@
 * [British Library: strategy in the rescue-conservation of a rare-book:](http://britishlibrary.typepad.co.uk/collectioncare/). Blog describes about some strategies followed according conservancy level of object
 * [D-lib: The Magazine of Digital Library Research](http://www.dlib.org/dlib.html)
 * [Example of Dublin Core on early (rare) book](http://trapalanda.bn.gov.ar/jspui/handle/123456789/1524)
+* (Guidelines for Planning the Digitization of Rare Book and Manuscript Collections - PDF version](https://www.ifla.org/files/assets/rare-books-and-manuscripts/rbms-guidelines/guidelines-for-planning-digitization.pdf)
 * [https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno](https://www.bn.gov.ar/micrositios/multimedia/institucionales/departamento-de-microfilmacion-y-digitalizacion-de-la-biblioteca-nacional-mariano-moreno)
 * [Sección Incunables de la Biblioteca Nacional de Argentina](http://trapalanda.bn.gov.ar/jspui/handle/123456789/55)
 * [https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1](https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1)
@@ -49,7 +50,7 @@
 * (International Organizations and Projects related to Rare Books and Manuscripts)[https://www.ifla.org/node/8413]
 * [Digital Preservation Coalition](http://www.dpconline.org/) offers a [handbook](http://dpconline.org/handbook). Some webinars can be found here: https://vimeo.com/user5542004
 * [Guidelines for Digitizing Archival Materials for Electronic Access](https://www.archives.gov/preservation/technical/guidelines.html)
-* [http://www.ukoln.ac.uk/preservation/presentations/](http://www.ukoln.ac.uk/preservation/presentations/) (info offered seems to be outdated)
+* ~~[http://www.ukoln.ac.uk/preservation/presentations/](http://www.ukoln.ac.uk/preservation/presentations/)~~ (info offered seems to be outdated)
 * [Vancouver Maritime Museum digitization plan](https://issuu.com/vanmaritime/docs/vmm_digitization_plan_2015)
 * [Final report of the taskforce on digital archiving](https://www.clir.org/pubs/reports/pub63watersgarrett.pdf)
 * [NDSA:Digital Preservation in a Box](https://wiki.diglib.org/NDSA:Digital_Preservation_in_a_Box)
