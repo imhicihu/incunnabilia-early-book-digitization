@@ -18,6 +18,7 @@
 	      * [Framework of Guidance for Building Good Digital Collections](http://www.niso.org/publications/rp/framework3.pdf)
 * [Digitalizar](http://www.digitalizar.org): take in count this book: _Digitalización del patrimonio: archivos, bibliotecas y museos en la red._ Offers some _modelos_, _estándares_ y _preservación digital_.
 * [Digitalización del material cultural](http://www.bne.es/es/Inicio/Perfiles/Bibliotecarios/Informes/DigitalizacionMaterialCultural/index.html)
+* [Northeast Document Conservation Center](https://www.nedcc.org/)
 * [National Archives Preservation Guidelines for Vendors Handling Records and Historical Materials](https://www.archives.gov/preservation/technical/vendor-training.html): describes the _do_ and _don`ts_ to manage fragile assets. 
 * [Archivo General de Córdoba: Archivo Histórico](http://prensa.cba.gov.ar/cultura-y-espectaculos/%E2%80%8Barchivo-historico-un-papel-saludable/) email: archivo.historico@cba.gov.ar
 * [Primary Trustworthy Digital Repository Authorisation Body Ltd:](http://www.iso16363.org/) some [bibliography](http://www.iso16363.org/courses/resources/further-reading/), some [tools and services](http://www.iso16363.org/courses/resources/tools-and-services/), some Github / Google Code repos: [Droid](https://sourceforge.net/projects/droid/) now _deprecated_: actual [Github repo](https://github.com/digital-preservation/droid), 
