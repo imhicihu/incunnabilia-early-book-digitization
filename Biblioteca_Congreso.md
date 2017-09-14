@@ -129,4 +129,10 @@
       * (...) Environmental stability is a very important preservation factor. Although the influence on preservation of absolute termperature and rlative humidity values has benn clearly established, these should be considered taking into account the annual climatic variations in the region in question. Moreover, relative humidity is known to be a vital factor in the preservation or deterioration of almost all types of written or printed cultural property. Control of relative humidity should take priority over temperature control. (p. 12)
       * (...) avoid harmful thermal shocks. (p. 12)
       * Environment ranges in the stores (in temperate zones):
-           - winter temperature: 16-18°℃ 
+           - winter temperature: 16-18℃, if the temperature of the reading rooms is: 21-22℃
+           - summer temperature: 
+                * air contitionaed stores and reading rooms: the temperature in the stores should be 18.20℃ when it is 24℃ in the reading rooms, otherwise 4-5℃ below the reading room temperature.
+                * non-air conditioned reading rooms: the temperature in the stores should be 22-24℃, if the reading room temperature does not exceed 27-28℃, otherwise 4-5℃ below the temperature of the work areas.
+           - realtive humidity in winter: 45-55%
+           - relative humidity in summer: 50-60%. Levels exceeding 65% hsould be avoided for periods exceeding 24-48 hours, depending on the seriousness of the overshoot.
+           - realtive humidity for rooms intended for preservation of photographic material: 30-40%. Ideal temperature of this typo of storage area: 12-14℃.
