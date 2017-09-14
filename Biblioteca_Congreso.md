@@ -97,20 +97,36 @@
       * (The qualitative shift from good rewearch to good practice requieres cutting-edge strategies, as in the implementation of method underpinning the storage of digital memories comprising both short-term and long-term preservation of digital objects (...)
       * Bibliography is a plus (particularly about ISO, DOI, Wikipedia: _Digital repository standards development_, [Zenodo](http://zenodo.org/): _Schema for the description of research data repositories_ & Weidner, AJ: _Workflow tools for digital curation_, _et alia_)
  -----------------------------------
-   * ~~Ghamouh, Nadjia; Boulahlib, Meriem~~
+  * ~~Ghamouh, Nadjia; Boulahlib, Meriem~~
   ~~Cultural heritage digitization projects in Algeria: Case study of the National Library~~
   ~~(IFLA Journal, vol. 41 (2015), N° 3, (Oct. 2015), p. 272-278~~
        * Besides cataloging, the Manuscripts and Rare Books Department is now working on manuscript sterilization for restoration and preservation goals." (p. 274)
        * (...) An international company which uses robotic bound document scanning systems, Kirtas, obtained this tender and tested the Kabis TM700 scanner to digitize the manuscripts. After a while, the scanner started to shred parts from the most fragile manuscripts. (...) This failed program, which was caused by a lack of understanding of the physical characteristics and fragility of manuscripts and rare books was an unfortunate episode in the history of the Algerian National Library" (p. 275)
  -----------------------------------
-   * ~~IT REVIEW~~
- ~~Newsletter of the IFLA Section on Information Technology, June 1994, No. 23~~
+  * ~~IT REVIEW~~
+  ~~Newsletter of the IFLA Section on Information Technology, June 1994, No. 23~~
        * mostly describes about library protocols: ANSI/NISO, ISO, Z39.50, etc.
        * data outdated.     
  -----------------------------------
-    * ~~International Preservation News~~
- ~~No. 25, august 2001, IFLA PAC~~
- Taking care of the books (p. 6). Advice & promotion of good practices. A graphical example on "_How to cover books_". (p. 7)
- 
+  * ~~International Preservation News~~
+  ~~No. 25, august 2001, IFLA PAC~~
+        * Taking care of the books (p. 6). Advice & promotion of good practices. A graphical example on "_How to cover books_". (p. 7)
  -----------------------------------
- 
+  * ~~International Preservation News~~
+  ~~No. 24, may 2001, IFLA PAC~~
+  Preserving Maori documentary heritage in New Zealand
+      * (...) The National Library of New Zealand is responsible for collecting and preserving the national documentary heritage. It is obliged by law to consider the particular needs of Maori, the country's indigenous people. As a repository of records of significance to all, the Librarry has developed its own strategic goal to work in partnership with Maori." (p. 11)
+      + (...) The storage and treatment facilities for preserving collections at the National Library are excelent (...) (p. 14)
+      * (...) Collections and their preservation need to be examined in the light of Maori rights and aspirations for control of, as well as access to, their resoruces." (p. 14)
+ -----------------------------------
+  * ~~International Preservation News~~
+  ~~No. 22, 23, august-december 2000, IFLA PAC~~
+  Architecture and Preservation: Fighting the Same Battle
+      * (...) During the institution's working hours, there should be very low level lighting in the stores (20 to 50 lux), with the possibility of increasing the lighting level to 200-300 lux for a few minutes at a time by the use of time switchess (operating time: 10  to 15 minutes). When the institution is closed, the stores can reamin in total darkness. (p. 11)
+      * (...) Furthermore, artificial light sources hould produce only low ultraviolet radiation (less than 75W/lm). Their heat output in the stores should also be very low. Planning the system of environment management should also take into account the heat put out by artificial light sources. (p. 11)
+      * (...) The environment levels in the stores, the temperature and relative humidity of the air, are expressed by ranges giving the limits of acceptable seasonal variations. Short-term variations in humidity should in principle be limited to 2% per hour per day. (p. 12)
+      * (...) Environmental stability should never be sought by the use of air conditioning. (p. 12)
+      * (...) Environmental stability is a very important preservation factor. Although the influence on preservation of absolute termperature and rlative humidity values has benn clearly established, these should be considered taking into account the annual climatic variations in the region in question. Moreover, relative humidity is known to be a vital factor in the preservation or deterioration of almost all types of written or printed cultural property. Control of relative humidity should take priority over temperature control. (p. 12)
+      * (...) avoid harmful thermal shocks. (p. 12)
+      * Environment ranges in the stores (in temperate zones):
+           - winter temperature: 16-18°℃ 
