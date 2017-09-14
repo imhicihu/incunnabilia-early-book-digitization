@@ -96,7 +96,6 @@
       * (...) Pursuing preservation research to forward the National Preservation Research Agenda, the Library of Congress, in consultation with leading scientific laboratories, has developed a matrix of preservation science projects undertaken by libraries, archives (...)
       * (The qualitative shift from good rewearch to good practice requieres cutting-edge strategies, as in the implementation of method underpinning the storage of digital memories comprising both short-term and long-term preservation of digital objects (...)
       * Bibliography is a plus (particularly about ISO, DOI, Wikipedia: _Digital repository standards development_, [Zenodo](http://zenodo.org/): _Schema for the description of research data repositories_ & Weidner, AJ: _Workflow tools for digital curation_, _et alia_)
-    
  -----------------------------------
    * ~~Ghamouh, Nadjia; Boulahlib, Meriem~~
   ~~Cultural heritage digitization projects in Algeria: Case study of the National Library~~
@@ -107,7 +106,11 @@
    * ~~IT REVIEW~~
  ~~Newsletter of the IFLA Section on Information Technology, June 1994, No. 23~~
        * mostly describes about library protocols: ANSI/NISO, ISO, Z39.50, etc.
-       * data outdated.
+       * data outdated.     
+ -----------------------------------
+    * ~~International Preservation News~~
+ ~~No. 25, august 2001, IFLA PAC~~
+ Taking care of the books (p. 6). Advice & promotion of good practices. A graphical example on "_How to cover books_". (p. 7)
  
  -----------------------------------
- Addenda H6728 International Preservation News (from #22-32 --) discontinued) check everyone!
+ 
