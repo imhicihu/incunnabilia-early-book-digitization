@@ -136,3 +136,7 @@
            - realtive humidity in winter: 45-55%
            - relative humidity in summer: 50-60%. Levels exceeding 65% hsould be avoided for periods exceeding 24-48 hours, depending on the seriousness of the overshoot.
            - realtive humidity for rooms intended for preservation of photographic material: 30-40%. Ideal temperature of this typo of storage area: 12-14℃.
+      * (...) An air conditioning system provides the necessary volume of fresh air at the correct temperature and relative humidity: it should never be used to compensate for negative-outside-influences, which should be neutralised by the quality of the construction. (p. 14)
+      * (...) Air-conditioning apparata (heating, cooling, humidification and dehumidification) should be smaller than specified in the usual standards, to promote environmental stability. (p. 15)
+      * (...) Independently of the air conditioning system chosen, outside-air blown into the stores should be carefully filtered to eliminate suspended dust particles and gaseous plllutants. The recommended solution is a combination of dust filters of type F8/F9 (or, better still, H10/H11) with an active carbon filter and a Purafil-type chemical absorption filter. In this way the pollytants are practically eliminated. (p. 15)
+      
