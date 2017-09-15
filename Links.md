@@ -49,8 +49,8 @@
 * [National Manuscripts Conservation Trust](http://www.nmct.co.uk/)
 * [https://en.wikipedia.org/wiki/Digital_preservation](https://en.wikipedia.org/wiki/Digital_preservation)
 * [Digital preservation digital assets](https://issuu.com/marvinsunderground/stacks/bac2f6b72d614c58b3856e72274a7d47)
-* (International Organizations and Projects related to Rare Books and Manuscripts)[https://www.ifla.org/node/8413]
-* [Digital Preservation Coalition](http://www.dpconline.org/) offers a [handbook](http://dpconline.org/handbook). Some webinars can be found here: https://vimeo.com/user5542004
+* [International Organizations and Projects related to Rare Books and Manuscripts](https://www.ifla.org/node/8413)
+* [Digital Preservation Coalition](http://www.dpconline.org/) offers a [handbook](http://dpconline.org/handbook). Some [webinars](https://vimeo.com/user5542004) can be found
 * [Guidelines for Digitizing Archival Materials for Electronic Access](https://www.archives.gov/preservation/technical/guidelines.html)
 * ~~[http://www.ukoln.ac.uk/preservation/presentations/](http://www.ukoln.ac.uk/preservation/presentations/)~~ (info offered seems to be outdated)
 * [Vancouver Maritime Museum digitization plan](https://issuu.com/vanmaritime/docs/vmm_digitization_plan_2015)
