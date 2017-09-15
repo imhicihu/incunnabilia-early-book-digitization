@@ -29,6 +29,7 @@
 * [Guidelines: Technical Guidelines for Digitizing Cultural Heritage Materials](http://www.digitizationguidelines.gov/guidelines/digitize-technical.html)
 * [Leading cases on British library](https://www.bl.uk/digitisation-services)
 * [International Internet Preservation Consortion](http://netpreserve.org/)
+* by Cornell University. A workshop ¿by Allan Howell?: [Moving Theory into Practice. Digital imaging tutorial](http://preservationtutorial.library.cornell.edu/contents.html)
 * [Library of Congress -digital preservation- publications](http://www.digitalpreservation.gov/multimedia/)
 * [International Federation of Library Associations and Institutions (IFLA) guidelines](https://www.ifla.org/node/8750)
 * [Federal Agencies Digitization Guidelines Initiative (FADGI)](http://www.digitizationguidelines.gov/) plus [Guidelines](http://www.digitizationguidelines.gov/guidelines/)
@@ -40,6 +41,7 @@
 * [A Linux Guide to Book Scanning](https://natecraun.net/articles/linux-guide-to-book-scanning.html)
 * [Perspective correction (algorithm)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
 * [http://1611199.blogspot.com.ar/](http://1611199.blogspot.com.ar/)
+* [Preservation of electronic information](http://homes.ukoln.ac.uk/~lismd/preservation.html)
 * query on [Emerald Insight](http://www.emeraldinsight.com/action/doSearch?AllField=digitization&content=articlesChapters) on digitization
 * [Adam Lowe clona los claroscuros de Caravaggio](https://elpais.com/diario/2009/10/08/ciberpais/1254968672_850215.html)
 * [Nuevos contenedores para la conservacion de piezas artisticas incunables](http://argentinainvestiga.edu.ar/infouniversidades/2.6/listado/noticia.php?titulo=nuevos_contenedores_para_la_conservacion_de_piezas_artisticas_incunables&id=1071)
