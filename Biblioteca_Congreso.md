@@ -139,4 +139,9 @@
       * (...) An air conditioning system provides the necessary volume of fresh air at the correct temperature and relative humidity: it should never be used to compensate for negative-outside-influences, which should be neutralised by the quality of the construction. (p. 14)
       * (...) Air-conditioning apparata (heating, cooling, humidification and dehumidification) should be smaller than specified in the usual standards, to promote environmental stability. (p. 15)
       * (...) Independently of the air conditioning system chosen, outside-air blown into the stores should be carefully filtered to eliminate suspended dust particles and gaseous plllutants. The recommended solution is a combination of dust filters of type F8/F9 (or, better still, H10/H11) with an active carbon filter and a Purafil-type chemical absorption filter. In this way the pollytants are practically eliminated. (p. 15)
+ --------------------------------------
+  * ~~International Preservation News~~
+  ~~No. 28, december 2002, IFLA PAC~~
+  Sixteen years of pH Surveys on Newly-acquired Materials
+      * (...) The purpose of the pH survey is, as a part of the steps agains acid paper, to measure the pH of books printed in Japan, to identify their acidity and see how acid-free paper is disseminated. (p. 28)
       
