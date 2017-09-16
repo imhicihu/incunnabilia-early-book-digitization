@@ -114,14 +114,14 @@
  -----------------------------------
   * ~~International Preservation News~~
   ~~No. 24, may 2001, IFLA PAC~~
-  Preserving Maori documentary heritage in New Zealand
+  * Preserving Maori documentary heritage in New Zealand
       * (...) The National Library of New Zealand is responsible for collecting and preserving the national documentary heritage. It is obliged by law to consider the particular needs of Maori, the country's indigenous people. As a repository of records of significance to all, the Librarry has developed its own strategic goal to work in partnership with Maori." (p. 11)
       + (...) The storage and treatment facilities for preserving collections at the National Library are excelent (...) (p. 14)
       * (...) Collections and their preservation need to be examined in the light of Maori rights and aspirations for control of, as well as access to, their resoruces." (p. 14)
  -----------------------------------
   * ~~International Preservation News~~
   ~~No. 22, 23, august-december 2000, IFLA PAC~~
-  Architecture and Preservation: Fighting the Same Battle
+  * Architecture and Preservation: Fighting the Same Battle
       * (...) During the institution's working hours, there should be very low level lighting in the stores (20 to 50 lux), with the possibility of increasing the lighting level to 200-300 lux for a few minutes at a time by the use of time switchess (operating time: 10  to 15 minutes). When the institution is closed, the stores can reamin in total darkness. (p. 11)
       * (...) Furthermore, artificial light sources hould produce only low ultraviolet radiation (less than 75W/lm). Their heat output in the stores should also be very low. Planning the system of environment management should also take into account the heat put out by artificial light sources. (p. 11)
       * (...) The environment levels in the stores, the temperature and relative humidity of the air, are expressed by ranges giving the limits of acceptable seasonal variations. Short-term variations in humidity should in principle be limited to 2% per hour per day. (p. 12)
@@ -142,6 +142,6 @@
  --------------------------------------
   * ~~International Preservation News~~
   ~~No. 28, december 2002, IFLA PAC~~
-  Sixteen years of pH Surveys on Newly-acquired Materials
+  * Sixteen years of pH Surveys on Newly-acquired Materials
       * (...) The purpose of the pH survey is, as a part of the steps agains acid paper, to measure the pH of books printed in Japan, to identify their acidity and see how acid-free paper is disseminated. (p. 28)
       
