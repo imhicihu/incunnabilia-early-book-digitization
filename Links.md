@@ -69,4 +69,4 @@
 * https://www.nedcc.org/free-resources/digital-preservation
 * https://www.nedcc.org/free-resources/overview   mainly this resource: https://www.nedcc.org/free-resources/digital-preservation
 * [Digitally reconstructing the Great Parchment Book: 3D recovery of fire-damaged historical documents](https://academic.oup.com/dsh/article/2670757) **superb paper**
-* 
+* http://www.dpconline.org/knowledge-base
