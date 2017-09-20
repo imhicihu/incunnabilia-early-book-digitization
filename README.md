@@ -1,11 +1,11 @@
-# README #[![Bitbucket issues](https://img.shields.io/badge/issues-open-green.svg)]()
+# Rationale [![Bitbucket issues](https://img.shields.io/badge/issues-open-green.svg)]()
 
 This repository shows the process of digitization of an _incunabulae_.
 
 ### What is this repository for? ###
 
 * _Process-workflow-description_ turning a book and becoming a _digital asset_. 
-* Version 1.2
+* Version 1.3
 
 ### How do I get set up? ###
 
