@@ -1,3 +1,5 @@
+## Links visited:
+
 * [British Library: strategy in the rescue-conservation of a rare-book:](http://britishlibrary.typepad.co.uk/collectioncare/). Blog describes about some strategies followed according conservancy level of object
 * [D-lib: The Magazine of Digital Library Research](http://www.dlib.org/dlib.html)
 * [Example of Dublin Core on early (rare) book](http://trapalanda.bn.gov.ar/jspui/handle/123456789/1524)
@@ -60,3 +62,10 @@
 * [NDSA:Digital Preservation in a Box](https://wiki.diglib.org/NDSA:Digital_Preservation_in_a_Box)
 * [Juma Al Majid Center for Culture & Heritage: Preservation, Processing & Restoration](http://www.almajidcenter.org/page.php?pid=our-center&list=3) 
 * [Library of Congress: Tools and infrastructure](http://blogs.loc.gov/thesignal/category/tools-and-infrastructure/) at first sight, share some github repos
+
+## Links to visit
+
+* Guidelines & Resources of Library of Congress: https://www.loc.gov/ndnp/guidelines/ 
+* https://www.nedcc.org/free-resources/digital-preservation
+* https://www.nedcc.org/free-resources/overview   mainly this resource: https://www.nedcc.org/free-resources/digital-preservation
+* 
