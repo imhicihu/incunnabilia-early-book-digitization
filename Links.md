@@ -89,4 +89,14 @@
 * https://www.bl.uk/collection-guides/music-manuscripts
 * https://www.google.com.ar/search?q=digitization+guides+british+library&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=kfmVWcixB-ni8AeQirGYAg
 * https://www.archives.gov/preservation/technical
+* https://narations.blogs.archives.gov/2011/03/15/iso-standards-for-certifying-trustworthy-digital-repositories/
+* https://en.wikipedia.org/wiki/Digital_preservation
+* https://www.google.com.ar/search?q=digital+preservation+of+manuscripts+a+case+study+proceedings+of+2nd+convention+planner+2004&client=firefox-b&ei=UNyVWdGUJonMmwHCyK-oCw&start=10&sa=N&biw=1485&bih=834
+* http://www.dpconline.org/handbook/getting-started
+* http://dpconline.org/handbook
+* http://dpconline.org/handbook/technical-solutions-and-tools/tools
+* http://dpconline.org/handbook/technical-solutions-and-tools/fixity-and-checksums  (take in count the film preservation good practices to **Salesian stuff**)
+* https://www.sheffield.gov.uk/archives/
+* http://www.nmct.co.uk/case-studies/ceredigion-archives
+* http://www.nmct.co.uk/case-studies
 * 
