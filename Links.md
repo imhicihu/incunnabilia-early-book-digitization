@@ -66,6 +66,7 @@
 ## Links to visit
 
 * [Repositorio CONICET Digital](http://ri.conicet.gov.ar/discover) 
+* **https://core.ac.uk/search?q=digitization**
 * Guidelines & Resources of Library of Congress: https://www.loc.gov/ndnp/guidelines/ 
 * https://www.nedcc.org/free-resources/digital-preservation
 * https://www.nedcc.org/free-resources/overview   mainly this resource: https://www.nedcc.org/free-resources/digital-preservation
@@ -79,4 +80,13 @@
 * http://blogs.bl.uk/collectioncare/digitisation/page/3/
 * http://www.bl.uk/aboutus/stratpolprog/collectioncare/digitalpreservation/strategy/dpstrategy.html
 * https://www.loc.gov/preservation/espanol/
+* https://www.google.com.ar/search?q=digital+preservation+management+implementing+short+term+strategies+for+long+term+problems&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=SUSXWfGBD-fi8Afm6pyABQ
+* https://www.jisc.ac.uk/blog/ten-search-engines-for-researchers-that-go-beyond-google-11-jul-2013?from=promo
+* http://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/managing-your-collection/preserving-digital-collections/how-to-get-started/
+* http://www.nationalarchives.gov.uk/archives-sector/advice-and-guidance/managing-your-collection/preserving-digital-collections/
+* http://www.nlb.gov.sg/biblio/10901538 (candidate to Bibliography)
+* https://www.google.com.ar/search?q=preservation+management+of+digital+material+handbook&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=j_6VWd6TEvTi8AeMo7aQCg
+* https://www.bl.uk/collection-guides/music-manuscripts
+* https://www.google.com.ar/search?q=digitization+guides+british+library&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=kfmVWcixB-ni8AeQirGYAg
+* https://www.archives.gov/preservation/technical
 * 
