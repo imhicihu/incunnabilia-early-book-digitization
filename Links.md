@@ -73,4 +73,10 @@
 * http://www.dpconline.org/knowledge-base
 * [Book Scanning](https://en.wikipedia.org/wiki/Book_scanning)
 * [International Organizations and Projects related to Rare Books and Manuscripts](https://www.ifla.org/node/8413)
+* https://www.loc.gov/preservation/espanol/
+* https://books.google.com.ar/books?id=82doDQAAQBAJ&pg=PA48&lpg=PA48&dq=Gruss+lipper+digital+lab&source=bl&ots=IeqUNgSik6&sig=_xaoK2i0wm4-5CA1cYJicJihWLg&hl=es&sa=X&ved=0ahUKEwj5nJbbvuHVAhWDhpAKHZRoAL8Q6AEITTAG#v=onepage&q=Gruss%20lipper%20digital%20lab&f=false
+* http://www.dpconline.org/knowledge-base
+* http://blogs.bl.uk/collectioncare/digitisation/page/3/
+* http://www.bl.uk/aboutus/stratpolprog/collectioncare/digitalpreservation/strategy/dpstrategy.html
+* https://www.loc.gov/preservation/espanol/
 * 
