@@ -100,3 +100,8 @@
 * http://www.nmct.co.uk/case-studies/ceredigion-archives
 * http://www.nmct.co.uk/case-studies
 * https://www.youtube.com/watch?v=FZcYIXseXkg (japanese inventor)
+* http://researchguides.library.syr.edu/c.php?g=258107&p=1723760
+* http://search.informit.com.au/documentSummary;dn=799657687454549;res=IELAPA
+* http://worldcat.org/arcviewer/1/OCC/2007/08/08/0000070513/viewer/file1.html
+* http://americanarchivist.org/?code=same-site
+* 
