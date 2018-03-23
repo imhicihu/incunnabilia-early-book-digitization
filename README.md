@@ -37,4 +37,4 @@ This repository shows the process-workflow of digitization of an _incunabulae_.
 * Repo owner or admin
      * Contact `imhicihu at gmail dot com`
 * Other community or team contact
-     * Check [Board](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/addon/bitbucket-trello-addon/trello-board). Any idea (even the crazy ones) will be warm welcome.
+     * Check [Board](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/addon/bitbucket-trello-addon/trello-board). Any idea will be warm welcome.
